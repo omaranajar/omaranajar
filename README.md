@@ -1,7 +1,5 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
-# Hello World!, I'm Omar, a Moroccan Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.omaranajar.com)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2021 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# I'm Omar | Full Stack Developer | Laravel & Vue.js 👋🏼: 
+Passionate about building scalable and efficient web applications, I specialize in Laravel and Vue.js . With a strong background in backend and frontend development, I focus on crafting seamless user experiences and optimized performance.
 
 
 # 💻 Tech Stack:
