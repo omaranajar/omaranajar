@@ -1,3 +1,5 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 # I'm Omar | Full Stack Developer | Laravel & Vue.js 👋🏼: 
 Passionate about building scalable and efficient web applications, I specialize in Laravel and Vue.js . With a strong background in backend and frontend development, I focus on crafting seamless user experiences and optimized performance.
 
