@@ -1,6 +1,14 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # I'm Omar | Full Stack Developer | Laravel & Vue.js 👋🏼: 
+[![PortFolio](https://img.shields.io/badge/-PortFolio-B7472A?style=flat-informational&logo=codacy&logoColor=white)](https://skshamagarwal.github.io/) &nbsp; 
+[![Linked In](https://img.shields.io/badge/-LinkedIn-blue?style=flat-informational&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-anajar/) &nbsp; 
+[![GitLab](https://img.shields.io/badge/-GitLab-330F63?style=flat-informational&logo=gitlab&logoColor=white)](https://gitlab.com/skshamagarwal) &nbsp; 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-informational&logo=twitter&logoColor=white)](https://twitter.com/skshamagarwal) &nbsp; 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-F48024?style=flat-informational&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14081529/saksham-agarwal) &nbsp; 
+[![Hacker Rank](https://img.shields.io/badge/-HackerRank-2ec866?style=flat-informational&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/skshamagarwal) &nbsp; 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FF8C00?style=flat-informational&logo=leetcode&logoColor=white)](https://leetcode.com/skshamagarwal/) &nbsp; 
+
 Passionate about building scalable and efficient web applications, I specialize in Laravel and Vue.js . With a strong background in backend and frontend development, I focus on crafting seamless user experiences and optimized performance.
 
 
