@@ -2,9 +2,6 @@
 
 # I'm Omar | Full Stack Developer | Laravel & Vue.js 👋🏼: 
 [![PortFolio](https://img.shields.io/badge/-PortFolio-B7472A?style=flat-informational&logo=codacy&logoColor=white)](https://skshamagarwal.github.io/) &nbsp; 
-[![Linked In](https://img.shields.io/badge/-LinkedIn-blue?style=flat-informational&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-anajar/) &nbsp; 
-[![GitLab](https://img.shields.io/badge/-GitLab-330F63?style=flat-informational&logo=gitlab&logoColor=white)](https://gitlab.com/skshamagarwal) &nbsp; 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-informational&logo=twitter&logoColor=white)](https://twitter.com/skshamagarwal) &nbsp; 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-F48024?style=flat-informational&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14081529/saksham-agarwal) &nbsp; 
 [![Hacker Rank](https://img.shields.io/badge/-HackerRank-2ec866?style=flat-informational&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/skshamagarwal) &nbsp; 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FF8C00?style=flat-informational&logo=leetcode&logoColor=white)](https://leetcode.com/skshamagarwal/) &nbsp; 
@@ -20,3 +17,9 @@ Passionate about building scalable and efficient web applications, I specialize 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omaranajar/omaranajar/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/omaranajar/omaranajar/output/github-snake.svg" />
 </picture>
+
+## 🌍 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-anajar/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omaranajar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omar_anajar/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/omar.anjar.169/)
