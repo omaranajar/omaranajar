@@ -1,8 +1,8 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # I'm Omar | Full Stack Developer | Laravel & Vue.js 👋🏼: 
-[![PortFolio](https://img.shields.io/badge/-PortFolio-B7472A?style=flat-informational&logo=codacy&logoColor=white)](https://skshamagarwal.github.io/) &nbsp; 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-F48024?style=flat-informational&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14081529/saksham-agarwal) &nbsp; 
+[![PortFolio](https://img.shields.io/badge/-PortFolio-B7472A?style=flat-informational&logo=codacy&logoColor=white)](https://omaranajar.com/) &nbsp; 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-F48024?style=flat-informational&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17535624/omar-anajar) &nbsp; 
 [![Hacker Rank](https://img.shields.io/badge/-HackerRank-2ec866?style=flat-informational&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/omar_anajar) &nbsp; 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FF8C00?style=flat-informational&logo=leetcode&logoColor=white)](https://leetcode.com/u/omaranajar/) &nbsp; 
 
